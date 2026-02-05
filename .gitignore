@@ -1,13 +1,9 @@
-# Ignore python cache
+
 __pycache__/
 *.py[cod]
-
-# Ignore virtual environment
 venv/
 env/
 .env
-
-# Ignore large datasets (مهم عشان المساحة)
 DATASET_SUPER/
 images_original/
 NpyData/
@@ -15,6 +11,4 @@ NpyData/
 *.mp3
 *.wav
 *.mp3git add .
-
-# Ignore VS Code settings
 .vscode/
